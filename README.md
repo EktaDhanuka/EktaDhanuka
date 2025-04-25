@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Ekta Dhanuka</h1>
-<h3 align="center">A software engineer who is passionate about building scalable and user-centric web applications and has good problem solving skills</h3>
+<h4 align="center">A software engineer who is passionate about building scalable and user-centric web applications. I have 2+ years of experience as a software engineer in Frontend Web Development and DevOps. I am always eager to learn new tech stacks and solve real world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ektadhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="ektadhanuka" /> </p>
 
